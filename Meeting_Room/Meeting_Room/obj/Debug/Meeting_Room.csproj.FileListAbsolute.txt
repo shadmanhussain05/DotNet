@@ -1,0 +1,211 @@
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csprojAssemblyReference.cache
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csproj.CoreCompileInputs.cache
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Meeting_Room.dll.config
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Meeting_Room.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Meeting_Room.pdb
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csc.exe
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csc.exe.config
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csc.rsp
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csi.exe
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csi.exe.config
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csi.rsp
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.AppContext.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Console.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Compression.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Claims.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.ValueTuple.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\vbc.exe
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\vbc.exe.config
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\vbc.rsp
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\VBCSCompiler.exe
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Antlr3.Runtime.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Newtonsoft.Json.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\System.Web.Optimization.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\WebGrease.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\System.Web.Optimization.xml
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Newtonsoft.Json.xml
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Antlr3.Runtime.pdb
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csproj.CopyComplete
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.dll
+C:\Users\ESS-LT-7GD0NL3\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.pdb
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Meeting_Room.dll.config
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Meeting_Room.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Meeting_Room.pdb
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csc.exe
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csc.exe.config
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csc.rsp
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csi.exe
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csi.exe.config
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\csi.rsp
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.AppContext.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Collections.Immutable.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Console.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Compression.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.FileSystem.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Pipes.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Reflection.Metadata.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.AccessControl.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Claims.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.ValueTuple.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XPath.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\vbc.exe
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\vbc.exe.config
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\vbc.rsp
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\VBCSCompiler.exe
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\roslyn\VBCSCompiler.exe.config
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Antlr3.Runtime.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\AspNet.ScriptManager.jQuery.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.Web.Infrastructure.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Newtonsoft.Json.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\System.Web.Optimization.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\WebGrease.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\System.Web.Optimization.xml
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Newtonsoft.Json.xml
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Antlr3.Runtime.pdb
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Files\source\repos\Meeting_Room\Meeting_Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Files\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csprojAssemblyReference.cache
+E:\Files\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csproj.CoreCompileInputs.cache
+E:\Files\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csproj.CopyComplete
+E:\Files\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.dll
+E:\Files\source\repos\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.pdb
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Meeting_Room.dll.config
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Meeting_Room.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Meeting_Room.pdb
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\csc.exe
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\csc.exe.config
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\csc.rsp
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\csi.exe
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\csi.exe.config
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\csi.rsp
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.AppContext.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Collections.Immutable.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Console.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Compression.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.FileSystem.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.IO.Pipes.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Reflection.Metadata.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.AccessControl.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Claims.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Security.Principal.Windows.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.ValueTuple.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XPath.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\vbc.exe
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\vbc.exe.config
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\vbc.rsp
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\VBCSCompiler.exe
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\roslyn\VBCSCompiler.exe.config
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Antlr3.Runtime.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\AspNet.ScriptManager.bootstrap.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\AspNet.ScriptManager.jQuery.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.ScriptManager.WebForms.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.Web.Infrastructure.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Newtonsoft.Json.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\System.Web.Optimization.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\WebGrease.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\System.Web.Optimization.xml
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Newtonsoft.Json.xml
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Antlr3.Runtime.pdb
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.csprojResolveAssemblyReference.cache
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.dll
+D:\My.Net_Pro\New folder\project\Meeting_Room\Meeting_Room\Meeting_Room\obj\Debug\Meeting_Room.pdb
